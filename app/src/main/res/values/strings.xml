@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Indo Leasing</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="ad_id_banner_tes">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="ad_id_interstitial_tes">ca-app-pub-3940256099942544/1033173712</string>
+    <string name="ad_id_native_tes">ca-app-pub-3940256099942544/2247696110</string>
+
+<!--    test-->
+<!--    <string name="ad_banner_atas">ca-app-pub-3940256099942544/6300978111</string>-->
+<!--    <string name="ad_banner_bawah">ca-app-pub-3940256099942544/6300978111</string>-->
+<!--    <string name="ad_interstitial">ca-app-pub-3940256099942544/1033173712</string>-->
+<!--    <string name="ad_native_data">ca-app-pub-3940256099942544/2247696110</string>-->
+
+<!--    prod-->
+    <string name="ad_app_id">ca-app-pub-3950402057146083~2667715465</string>
+    <string name="ad_banner_atas">ca-app-pub-3950402057146083/3334779933</string>
+    <string name="ad_banner_bawah">ca-app-pub-3950402057146083/5769371581</string>
+    <string name="ad_interstitial">ca-app-pub-3950402057146083/7118112278</string>
+    <string name="ad_native_data">ca-app-pub-3950402057146083/5705437189</string>
+
+    <string-array name="array_uang_muka">
+        <item>10%</item>
+        <item>20%</item>
+        <item>30%</item>
+        <item>40%</item>
+        <item>50%</item>
+    </string-array>
+
+    <string-array name="array_tenor">
+        <item>1 tahun</item>
+        <item>2 tahun</item>
+        <item>3 tahun</item>
+        <item>4 tahun</item>
+        <item>5 tahun</item>
+        <item>6 tahun</item>
+    </string-array>
+</resources>

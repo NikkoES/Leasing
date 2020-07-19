@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "614064574410",
+    "firebase_url": "https://leasingl9.firebaseio.com",
+    "project_id": "leasingl9",
+    "storage_bucket": "leasingl9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:614064574410:android:4d4fe867f6888d13810933",
+        "android_client_info": {
+          "package_name": "com.luckynineapps.indoleasing"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "614064574410-7la8tbojps2bveb98k704ar3mgeu5dqb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQFGQLTGVCCnM84cS9ARf1TyiAQo_P80Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "614064574410-7la8tbojps2bveb98k704ar3mgeu5dqb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
